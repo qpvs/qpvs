@@ -19,5 +19,6 @@ Stock rankings can look convincing while hiding stale prices, unusual accounting
 - Look for evidence that could disprove an attractive thesis.
 - State the limits of the data and avoid promises about future returns.
 
-This project was built with Codex and reviewed through a bounded research test. I am continuing to improve the workflow as I find real gaps.
+I set the research goal and built this skill with Codex. I checked its structure with a validator and tried it on a limited public-stock comparison. I am continuing to improve the workflow as I find real gaps.
 
+حددت هدف البحث وبنيت المهارة بمساعدة Codex، ثم تحققت من بنيتها وجرّبتها في مقارنة محدودة لأسهم عامة. سأواصل تحسينها عند ظهور ثغرات حقيقية في طريقة البحث.
